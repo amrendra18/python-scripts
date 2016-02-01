@@ -1,4 +1,4 @@
 Python
 ======
 
-Some small useful python scripts
+Some useful python scripts
